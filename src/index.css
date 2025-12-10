@@ -90,14 +90,12 @@ h1 {
   font-family: "Dancing Script", cursive;
   font-weight: 500;
   font-size: 3rem;  /* Reduzido para mobile */
-  border: 3px solid #53ccec;
   padding: 0.5rem 1rem;
 }
 
 p {
   font-family: "Dancing Script", cursive;
   font-size: 1.1rem;
-  border: 3px solid #53ccec;
   padding: 0.4rem 0.8rem;
   margin-top: 1rem;
 }
